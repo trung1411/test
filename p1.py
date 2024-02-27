@@ -8,7 +8,7 @@ def hw_001():
 
 def hm_001():
 
-	print('Welcome to Monash University, Clayton, Victoria, Australia\n')	
+	print('Welcome to Monash University, Caulfield, Victoria, Australia\n')	
 	print('Bye for now!\n')
 
 
